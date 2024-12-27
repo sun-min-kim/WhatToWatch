@@ -1,0 +1,5 @@
+numpy<2
+joblib
+scipy
+scikit-surprise
+pandas
