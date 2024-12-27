@@ -1,6 +1,6 @@
 # .gitignore
-.DS_Store
 
 # backend files
+backend/.DS_Store
 backend/__pycache__
 backend/venv
